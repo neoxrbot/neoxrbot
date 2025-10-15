@@ -18,7 +18,7 @@ This account is used for:
 - Please **do not send direct messages** or mention this account for personal communication.  
 - All activities are **automated and logged**.  
 - For human contact, reach out to the main maintainer:  
-  📧 `maintainer@example.com`
+  📧 `contact@neoxr.my.id`
 
 ---
 
